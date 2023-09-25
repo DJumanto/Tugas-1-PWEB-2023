@@ -32,6 +32,6 @@ background: linear-gradient(75deg, rgba(255,240,164,1) 0%, rgba(241,104,150,1) 3
     overflow-x: hidden;
 }
 
-.skill-project-container{
+#Projects{
     overflow-x: auto;
 }
